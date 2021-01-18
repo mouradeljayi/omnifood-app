@@ -1,2 +1,2 @@
 # omnifood-app
-Restaurant Management System App with LARAVEL
+Restaurant Management System App with Laravel
